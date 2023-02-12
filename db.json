@@ -1,0 +1,29 @@
+{"Productos":
+    [
+        {
+            "id":1,
+            "title":"probando actualizar",
+            "description":"actulizando un objeto",
+            "price":2000,
+            "thumbnail":"imagen actualizacion",
+            "code":1233,
+            "stock":20},
+        {
+            "id" : 2,
+            "title" : "Prueba2",
+            "description" : "Estamos probando2",
+            "price" : 10002,
+            "thumbnail" : "estoEsUnaImagen2",
+            "code" : 202,
+            "stock" : 2002
+        },
+        {
+        "id": 3,
+        "title" : "probando actualizar",
+        "description" : "actulizando un objeto",
+        "price" : 2000,
+        "thumbnail" : "imagen actualizacion",
+        "code" : 1233,
+        "stock" : 20
+        }
+]}
